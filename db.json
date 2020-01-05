@@ -167,48 +167,6 @@
 		"Name": "Shirt",
 		"Größe": "152",
 		"Preis": "5.50"
-	},
-	{
-		"Id": "25",
-		"Person": "5",
-		"Name": "Shirt",
-		"Größe": "158",
-		"Preis": "6.00"
-	},
-	{
-		"Id": "26",
-		"Person": "5",
-		"Name": "Shirt",
-		"Größe": "164",
-		"Preis": "6.50"
-	},
-	{
-		"Id": "27",
-		"Person": "5",
-		"Name": "Hose",
-		"Größe": "98",
-		"Preis": "7.00"
-	},
-	{
-		"Id": "28",
-		"Person": "5",
-		"Name": "Hose",
-		"Größe": "104",
-		"Preis": "7.50"
-	},
-	{
-		"Id": "29",
-		"Person": "5",
-		"Name": "Hose",
-		"Größe": "110",
-		"Preis": "8.00"
-	},
-	{
-		"Id": "30",
-		"Person": "5",
-		"Name": "Hose",
-		"Größe": "116",
-		"Preis": "8.50"
 	}
 ]
 }
