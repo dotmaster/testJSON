@@ -2,210 +2,210 @@
   "articles":[
 	{
 		"id": "1",
-		"Person": "1",
+		"userID": "1",
 		"Name": "Banana Hamock (gelb gebraucht)",
 		"Größe": "XXXXL (60cm)",
 		"Preis": "4.50"
 	},
 	{
 		"id": "2",
-		"Person": "1",
+		"userID": "1",
 		"Name": "Unterwäsche (sexy)",
 		"Größe": "Groß",
 		"Preis": "100.50"
 	},
 	{
 		"id": "3",
-		"Person": "2",
+		"userID": "2",
 		"Name": "Nix",
 		"Größe": "-",
 		"Preis": "0.00"
 	},
 	{
 		"id": "4",
-		"Person": "3",
+		"userID": "3",
 		"Name": "asdf asdf asdf asdf",
 		"Größe": "33",
 		"Preis": "45.00"
 	},
 	{
 		"id": "5",
-		"Person": "3",
+		"userID": "3",
 		"Name": "aaaaaa",
 		"Größe": "",
 		"Preis": "1.00"
 	},
 	{
 		"id": "6",
-		"Person": "4",
+		"userID": "4",
 		"Name": "Hose dunkelgrau (H&M)",
 		"Größe": "86",
 		"Preis": "1.00"
 	},
 	{
 		"id": "7",
-		"Person": "4",
+		"userID": "4",
 		"Name": "alskdjföalkdjf löaskdfjölaskjflkasj ölaksdfjlöakjfklasfj klöasjfiasufh",
 		"Größe": "L",
 		"Preis": "4.50"
 	},
 	{
 		"id": "8",
-		"Person": "5",
+		"userID": "5",
 		"Name": "Locher rot (Leitz 5138)",
 		"Größe": "A4",
 		"Preis": "56.00"
 	},
 	{
 		"id": "9",
-		"Person": "5",
+		"userID": "5",
 		"Name": "Buch Leo Lausemaus hat Geburtstag",
 		"Größe": "",
 		"Preis": "1.50"
 	},
 	{
 		"id": "10",
-		"Person": "5",
+		"userID": "5",
 		"Name": "Tip Toi Globus",
 		"Größe": "",
 		"Preis": "15.00"
 	},
 	{
 		"id": "11",
-		"Person": "5",
+		"userID": "5",
 		"Name": "Laminiergerät (Office)",
 		"Größe": "A3",
 		"Preis": "35.00"
 	},
 	{
 		"id": "12",
-		"Person": "5",
+		"userID": "5",
 		"Name": "Kleid ärmellos lila blau gepatickt",
 		"Größe": "122/128",
 		"Preis": "10.00"
 	},
 	{
 		"id": "13",
-		"Person": "5",
+		"userID": "5",
 		"Name": "2-teilig Gatschanzug rosa gefütter",
 		"Größe": "98/104",
 		"Preis": "5.00"
 	},
 	{
 		"id": "14",
-		"Person": "5",
+		"userID": "5",
 		"Name": "Shirt langarm lila in Lagarm-Kurzarm-Optik ",
 		"Größe": "104",
 		"Preis": "0.50"
 	},
 	{
 		"id": "15",
-		"Person": "5",
+		"userID": "5",
 		"Name": "Shirt",
 		"Größe": "98",
 		"Preis": "1.00"
 	},
 	{
 		"id": "16",
-		"Person": "5",
+		"userID": "5",
 		"Name": "Shirt",
 		"Größe": "104",
 		"Preis": "1.50"
 	},
 	{
 		"id": "17",
-		"Person": "5",
+		"userID": "5",
 		"Name": "Shirt",
 		"Größe": "110",
 		"Preis": "2.00"
 	},
 	{
 		"id": "18",
-		"Person": "5",
+		"userID": "5",
 		"Name": "Shirt",
 		"Größe": "116",
 		"Preis": "2.50"
 	},
 	{
 		"id": "19",
-		"Person": "5",
+		"userID": "5",
 		"Name": "Shirt",
 		"Größe": "122",
 		"Preis": "3.00"
 	},
 	{
 		"id": "20",
-		"Person": "5",
+		"userID": "5",
 		"Name": "Shirt",
 		"Größe": "128",
 		"Preis": "3.50"
 	},
 	{
 		"id": "21",
-		"Person": "5",
+		"userID": "5",
 		"Name": "Shirt",
 		"Größe": "134",
 		"Preis": "4.00"
 	},
 	{
 		"id": "22",
-		"Person": "5",
+		"userID": "5",
 		"Name": "Shirt",
 		"Größe": "140",
 		"Preis": "4.50"
 	},
 	{
 		"id": "23",
-		"Person": "5",
+		"userID": "5",
 		"Name": "Shirt",
 		"Größe": "146",
 		"Preis": "5.00"
 	},
 	{
 		"id": "24",
-		"Person": "5",
+		"userID": "5",
 		"Name": "Shirt",
 		"Größe": "152",
 		"Preis": "5.50"
 	},
 	{
 		"id": "25",
-		"Person": "5",
+		"userID": "5",
 		"Name": "Shirt",
 		"Größe": "158",
 		"Preis": "6.00"
 	},
 	{
 		"id": "26",
-		"Person": "5",
+		"userID": "5",
 		"Name": "Shirt",
 		"Größe": "164",
 		"Preis": "6.50"
 	},
 	{
 		"id": "27",
-		"Person": "5",
+		"userID": "5",
 		"Name": "Hose",
 		"Größe": "98",
 		"Preis": "7.00"
 	},
 	{
 		"id": "28",
-		"Person": "5",
+		"userID": "5",
 		"Name": "Hose",
 		"Größe": "104",
 		"Preis": "7.50"
 	},
 	{
 		"id": "29",
-		"Person": "5",
+		"userID": "5",
 		"Name": "Hose",
 		"Größe": "110",
 		"Preis": "8.00"
 	},
 	{
 		"id": "30",
-		"Person": "5",
+		"userID": "5",
 		"Name": "Hose",
 		"Größe": "116",
 		"Preis": "8.50"
