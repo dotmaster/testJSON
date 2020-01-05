@@ -1,214 +1,272 @@
 {
-  "articles":[
-	{
-		"id": "1",
-		"userID": "1",
-		"Name": "Banana Hamock (gelb gebraucht)",
-		"Größe": "XXXXL (60cm)",
-		"Preis": "4.50"
-	},
-	{
-		"id": "2",
-		"userID": "1",
-		"Name": "Unterwäsche (sexy)",
-		"Größe": "Groß",
-		"Preis": "100.50"
-	},
-	{
-		"id": "3",
-		"userID": "2",
-		"Name": "Nix",
-		"Größe": "-",
-		"Preis": "0.00"
-	},
-	{
-		"id": "4",
-		"userID": "3",
-		"Name": "asdf asdf asdf asdf",
-		"Größe": "33",
-		"Preis": "45.00"
-	},
-	{
-		"id": "5",
-		"userID": "3",
-		"Name": "aaaaaa",
-		"Größe": "",
-		"Preis": "1.00"
-	},
-	{
-		"id": "6",
-		"userID": "4",
-		"Name": "Hose dunkelgrau (H&M)",
-		"Größe": "86",
-		"Preis": "1.00"
-	},
-	{
-		"id": "7",
-		"userID": "4",
-		"Name": "alskdjföalkdjf löaskdfjölaskjflkasj ölaksdfjlöakjfklasfj klöasjfiasufh",
-		"Größe": "L",
-		"Preis": "4.50"
-	},
-	{
-		"id": "8",
-		"userID": "5",
-		"Name": "Locher rot (Leitz 5138)",
-		"Größe": "A4",
-		"Preis": "56.00"
-	},
-	{
-		"id": "9",
-		"userID": "5",
-		"Name": "Buch Leo Lausemaus hat Geburtstag",
-		"Größe": "",
-		"Preis": "1.50"
-	},
-	{
-		"id": "10",
-		"userID": "5",
-		"Name": "Tip Toi Globus",
-		"Größe": "",
-		"Preis": "15.00"
-	},
-	{
-		"id": "11",
-		"userID": "5",
-		"Name": "Laminiergerät (Office)",
-		"Größe": "A3",
-		"Preis": "35.00"
-	},
-	{
-		"id": "12",
-		"userID": "5",
-		"Name": "Kleid ärmellos lila blau gepatickt",
-		"Größe": "122/128",
-		"Preis": "10.00"
-	},
-	{
-		"id": "13",
-		"userID": "5",
-		"Name": "2-teilig Gatschanzug rosa gefütter",
-		"Größe": "98/104",
-		"Preis": "5.00"
-	},
-	{
-		"id": "14",
-		"userID": "5",
-		"Name": "Shirt langarm lila in Lagarm-Kurzarm-Optik ",
-		"Größe": "104",
-		"Preis": "0.50"
-	},
-	{
-		"id": "15",
-		"userID": "5",
-		"Name": "Shirt",
-		"Größe": "98",
-		"Preis": "1.00"
-	},
-	{
-		"id": "16",
-		"userID": "5",
-		"Name": "Shirt",
-		"Größe": "104",
-		"Preis": "1.50"
-	},
-	{
-		"id": "17",
-		"userID": "5",
-		"Name": "Shirt",
-		"Größe": "110",
-		"Preis": "2.00"
-	},
-	{
-		"id": "18",
-		"userID": "5",
-		"Name": "Shirt",
-		"Größe": "116",
-		"Preis": "2.50"
-	},
-	{
-		"id": "19",
-		"userID": "5",
-		"Name": "Shirt",
-		"Größe": "122",
-		"Preis": "3.00"
-	},
-	{
-		"id": "20",
-		"userID": "5",
-		"Name": "Shirt",
-		"Größe": "128",
-		"Preis": "3.50"
-	},
-	{
-		"id": "21",
-		"userID": "5",
-		"Name": "Shirt",
-		"Größe": "134",
-		"Preis": "4.00"
-	},
-	{
-		"id": "22",
-		"userID": "5",
-		"Name": "Shirt",
-		"Größe": "140",
-		"Preis": "4.50"
-	},
-	{
-		"id": "23",
-		"userID": "5",
-		"Name": "Shirt",
-		"Größe": "146",
-		"Preis": "5.00"
-	},
-	{
-		"id": "24",
-		"userID": "5",
-		"Name": "Shirt",
-		"Größe": "152",
-		"Preis": "5.50"
-	},
-	{
-		"id": "25",
-		"userID": "5",
-		"Name": "Shirt",
-		"Größe": "158",
-		"Preis": "6.00"
-	},
-	{
-		"id": "26",
-		"userID": "5",
-		"Name": "Shirt",
-		"Größe": "164",
-		"Preis": "6.50"
-	},
-	{
-		"id": "27",
-		"userID": "5",
-		"Name": "Hose",
-		"Größe": "98",
-		"Preis": "7.00"
-	},
-	{
-		"id": "28",
-		"userID": "5",
-		"Name": "Hose",
-		"Größe": "104",
-		"Preis": "7.50"
-	},
-	{
-		"id": "29",
-		"userID": "5",
-		"Name": "Hose",
-		"Größe": "110",
-		"Preis": "8.00"
-	},
-	{
-		"id": "30",
-		"userID": "5",
-		"Name": "Hose",
-		"Größe": "116",
-		"Preis": "8.50"
-	}
-]
+	"articles": [
+		{
+			"id": "1",
+			"userID": "1",
+			"Name": "Banana Hamock (gelb gebraucht)",
+			"Größe": "XXXXL (60cm)",
+			"Preis": "4.50"
+		},
+		{
+			"id": "2",
+			"userID": "1",
+			"Name": "Unterwäsche (sexy)",
+			"Größe": "Groß",
+			"Preis": "100.50"
+		},
+		{
+			"id": "3",
+			"userID": "2",
+			"Name": "Nix",
+			"Größe": "-",
+			"Preis": "0.00"
+		},
+		{
+			"id": "4",
+			"userID": "3",
+			"Name": "asdf asdf asdf asdf",
+			"Größe": "33",
+			"Preis": "45.00"
+		},
+		{
+			"id": "5",
+			"userID": "3",
+			"Name": "aaaaaa",
+			"Größe": "",
+			"Preis": "1.00"
+		},
+		{
+			"id": "6",
+			"userID": "4",
+			"Name": "Hose dunkelgrau (H&M)",
+			"Größe": "86",
+			"Preis": "1.00"
+		},
+		{
+			"id": "7",
+			"userID": "4",
+			"Name": "alskdjföalkdjf löaskdfjölaskjflkasj ölaksdfjlöakjfklasfj klöasjfiasufh",
+			"Größe": "L",
+			"Preis": "4.50"
+		},
+		{
+			"id": "8",
+			"userID": "5",
+			"Name": "Locher rot (Leitz 5138)",
+			"Größe": "A4",
+			"Preis": "56.00"
+		},
+		{
+			"id": "9",
+			"userID": "5",
+			"Name": "Buch Leo Lausemaus hat Geburtstag",
+			"Größe": "",
+			"Preis": "1.50"
+		},
+		{
+			"id": "10",
+			"userID": "5",
+			"Name": "Tip Toi Globus",
+			"Größe": "",
+			"Preis": "15.00"
+		},
+		{
+			"id": "11",
+			"userID": "5",
+			"Name": "Laminiergerät (Office)",
+			"Größe": "A3",
+			"Preis": "35.00"
+		},
+		{
+			"id": "12",
+			"userID": "5",
+			"Name": "Kleid ärmellos lila blau gepatickt",
+			"Größe": "122/128",
+			"Preis": "10.00"
+		},
+		{
+			"id": "13",
+			"userID": "5",
+			"Name": "2-teilig Gatschanzug rosa gefütter",
+			"Größe": "98/104",
+			"Preis": "5.00"
+		},
+		{
+			"id": "14",
+			"userID": "5",
+			"Name": "Shirt langarm lila in Lagarm-Kurzarm-Optik ",
+			"Größe": "104",
+			"Preis": "0.50"
+		},
+		{
+			"id": "15",
+			"userID": "5",
+			"Name": "Shirt",
+			"Größe": "98",
+			"Preis": "1.00"
+		},
+		{
+			"id": "16",
+			"userID": "5",
+			"Name": "Shirt",
+			"Größe": "104",
+			"Preis": "1.50"
+		},
+		{
+			"id": "17",
+			"userID": "5",
+			"Name": "Shirt",
+			"Größe": "110",
+			"Preis": "2.00"
+		},
+		{
+			"id": "18",
+			"userID": "5",
+			"Name": "Shirt",
+			"Größe": "116",
+			"Preis": "2.50"
+		},
+		{
+			"id": "19",
+			"userID": "5",
+			"Name": "Shirt",
+			"Größe": "122",
+			"Preis": "3.00"
+		},
+		{
+			"id": "20",
+			"userID": "5",
+			"Name": "Shirt",
+			"Größe": "128",
+			"Preis": "3.50"
+		},
+		{
+			"id": "21",
+			"userID": "5",
+			"Name": "Shirt",
+			"Größe": "134",
+			"Preis": "4.00"
+		},
+		{
+			"id": "22",
+			"userID": "5",
+			"Name": "Shirt",
+			"Größe": "140",
+			"Preis": "4.50"
+		},
+		{
+			"id": "23",
+			"userID": "5",
+			"Name": "Shirt",
+			"Größe": "146",
+			"Preis": "5.00"
+		},
+		{
+			"id": "24",
+			"userID": "5",
+			"Name": "Shirt",
+			"Größe": "152",
+			"Preis": "5.50"
+		},
+		{
+			"id": "25",
+			"userID": "5",
+			"Name": "Shirt",
+			"Größe": "158",
+			"Preis": "6.00"
+		},
+		{
+			"id": "26",
+			"userID": "5",
+			"Name": "Shirt",
+			"Größe": "164",
+			"Preis": "6.50"
+		},
+		{
+			"id": "27",
+			"userID": "5",
+			"Name": "Hose",
+			"Größe": "98",
+			"Preis": "7.00"
+		},
+		{
+			"id": "28",
+			"userID": "5",
+			"Name": "Hose",
+			"Größe": "104",
+			"Preis": "7.50"
+		},
+		{
+			"id": "29",
+			"userID": "5",
+			"Name": "Hose",
+			"Größe": "110",
+			"Preis": "8.00"
+		},
+		{
+			"id": "30",
+			"userID": "5",
+			"Name": "Hose",
+			"Größe": "116",
+			"Preis": "8.50"
+		}
+	],
+	"users": [
+		{
+			"id": 1,
+			"Name": "Hannes Sachsenhofer",
+			"Adresse": "Waldweg 14\n4113 St. Martin",
+			"E-Mail-Adresse": "hannes@sachsenhofer.com",
+			"Telefonnummer": "0677 61603456"
+		},
+		{
+			"id": 2,
+			"Name": "Hannes Sachsenhofer",
+			"Adresse": "asdf\nqwer",
+			"E-Mail-Adresse": "hannes.sachsenhofer@adliance.net",
+			"Telefonnummer": "asdf"
+		},
+		{
+			"id": 3,
+			"Name": "asdf",
+			"Adresse": "qwer",
+			"E-Mail-Adresse": "hs@eigenart.co.at",
+			"Telefonnummer": "asdf"
+		},
+		{
+			"id": 4,
+			"Name": "Ursi Pühringer",
+			"Adresse": "Galgenberg 3\n4120 Neufelden",
+			"E-Mail-Adresse": "ursula.puehringer@gmail.com",
+			"Telefonnummer": "0664 14 58 265"
+		},
+		{
+			"id": 5,
+			"Name": "Franz Pühringer",
+			"Adresse": "Galgenberg 3\n4120 Neufelden",
+			"E-Mail-Adresse": "ursula.puehringer@gmail.com",
+			"Telefonnummer": "0664 14 58 265"
+		},
+		{
+			"id": 6,
+			"Name": "Maria Fischer",
+			"Adresse": "Sag ich nicht\nWien",
+			"E-Mail-Adresse": "maria@musterfrau.com",
+			"Telefonnummer": "0664 12 345 67"
+		},
+		{
+			"id": 7,
+			"Name": "Carina Grabner",
+			"Adresse": "Straße\n4120 Neufelden",
+			"E-Mail-Adresse": "carina@carina.com",
+			"Telefonnummer": "0664 12 345 67"
+		},
+		{
+			"id": 1001,
+			"Name": "Hannes Sachsenhofer",
+			"Adresse": "Mütterrunde\nUnd mehr Text geht auch, Hauptsache Mütterrunde kommt voir",
+			"E-Mail-Adresse": "hannes@sachsenhofer.com",
+			"Telefonnummer": "1234"
+		}
+	]
 }
