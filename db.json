@@ -1,495 +1,272 @@
 {
-  "articles":[
-	{
-		"Person": "1",
-		"Artikel": "1",
-		"Name": "Banana Hamock (gelb",
-		"Größe": " gebraucht)",
-		"Preis": "XXXXL (60cm)",
-		"Letzte Zeile": "4.50 €"
-	},
-	{
-		"Person": "1",
-		"Artikel": "2",
-		"Name": "Unterwäsche (sexy)",
-		"Größe": "Groß",
-		"Preis": "100.50 €",
-		"Letzte Zeile": "1"
-	},
-	{
-		"Person": "2",
-		"Artikel": "1",
-		"Name": "Nix",
-		"Größe": "-",
-		"Preis": "0.00 €",
-		"Letzte Zeile": "1"
-	},
-	{
-		"Person": "3",
-		"Artikel": "1",
-		"Name": "asdf asdf asdf asdf",
-		"Größe": "33",
-		"Preis": "45.00 €",
-		"Letzte Zeile": "0"
-	},
-	{
-		"Person": "3",
-		"Artikel": "2",
-		"Name": "aaaaaa",
-		"Größe": "",
-		"Preis": "1.00 €",
-		"Letzte Zeile": "1"
-	},
-	{
-		"Person": "4",
-		"Artikel": "1",
-		"Name": "Hose dunkelgrau (H&M)",
-		"Größe": "86",
-		"Preis": "1.00 €",
-		"Letzte Zeile": "0"
-	},
-	{
-		"Person": "4",
-		"Artikel": "2",
-		"Name": "alskdjföalkdjf löaskdfjölaskjflkasj ölaksdfjlöakjfklasfj klöasjfiasufh",
-		"Größe": "L",
-		"Preis": "4.50 €",
-		"Letzte Zeile": "1"
-	},
-	{
-		"Person": "5",
-		"Artikel": "1",
-		"Name": "Locher rot (Leitz 5138)",
-		"Größe": "A4",
-		"Preis": "56.00 €",
-		"Letzte Zeile": "0"
-	},
-	{
-		"Person": "5",
-		"Artikel": "2",
-		"Name": "Buch Leo Lausemaus hat Geburtstag",
-		"Größe": "",
-		"Preis": "1.50 €",
-		"Letzte Zeile": "0"
-	},
-	{
-		"Person": "5",
-		"Artikel": "3",
-		"Name": "Tip Toi Globus",
-		"Größe": "",
-		"Preis": "15.00 €",
-		"Letzte Zeile": "0"
-	},
-	{
-		"Person": "5",
-		"Artikel": "4",
-		"Name": "Laminiergerät (Office)",
-		"Größe": "A3",
-		"Preis": "35.00 €",
-		"Letzte Zeile": "0"
-	},
-	{
-		"Person": "5",
-		"Artikel": "5",
-		"Name": "Kleid ärmellos",
-		"Größe": " lila blau gepatickt",
-		"Preis": "122/128",
-		"Letzte Zeile": "10.00 €"
-	},
-	{
-		"Person": "5",
-		"Artikel": "6",
-		"Name": "2-teilig Gatschanzug rosa gefütter",
-		"Größe": "98/104",
-		"Preis": "5.00 €",
-		"Letzte Zeile": "0"
-	},
-	{
-		"Person": "5",
-		"Artikel": "7",
-		"Name": "Shirt langarm lila in Lagarm-Kurzarm-Optik ",
-		"Größe": "104",
-		"Preis": "0.50 €",
-		"Letzte Zeile": "0"
-	},
-	{
-		"Person": "5",
-		"Artikel": "8",
-		"Name": "Shirt",
-		"Größe": "98",
-		"Preis": "1.00 €",
-		"Letzte Zeile": "0"
-	},
-	{
-		"Person": "5",
-		"Artikel": "9",
-		"Name": "Shirt",
-		"Größe": "104",
-		"Preis": "1.50 €",
-		"Letzte Zeile": "0"
-	},
-	{
-		"Person": "5",
-		"Artikel": "10",
-		"Name": "Shirt",
-		"Größe": "110",
-		"Preis": "2.00 €",
-		"Letzte Zeile": "0"
-	},
-	{
-		"Person": "5",
-		"Artikel": "11",
-		"Name": "Shirt",
-		"Größe": "116",
-		"Preis": "2.50 €",
-		"Letzte Zeile": "0"
-	},
-	{
-		"Person": "5",
-		"Artikel": "12",
-		"Name": "Shirt",
-		"Größe": "122",
-		"Preis": "3.00 €",
-		"Letzte Zeile": "0"
-	},
-	{
-		"Person": "5",
-		"Artikel": "13",
-		"Name": "Shirt",
-		"Größe": "128",
-		"Preis": "3.50 €",
-		"Letzte Zeile": "0"
-	},
-	{
-		"Person": "5",
-		"Artikel": "14",
-		"Name": "Shirt",
-		"Größe": "134",
-		"Preis": "4.00 €",
-		"Letzte Zeile": "0"
-	},
-	{
-		"Person": "5",
-		"Artikel": "15",
-		"Name": "Shirt",
-		"Größe": "140",
-		"Preis": "4.50 €",
-		"Letzte Zeile": "0"
-	},
-	{
-		"Person": "5",
-		"Artikel": "16",
-		"Name": "Shirt",
-		"Größe": "146",
-		"Preis": "5.00 €",
-		"Letzte Zeile": "0"
-	},
-	{
-		"Person": "5",
-		"Artikel": "17",
-		"Name": "Shirt",
-		"Größe": "152",
-		"Preis": "5.50 €",
-		"Letzte Zeile": "0"
-	},
-	{
-		"Person": "5",
-		"Artikel": "18",
-		"Name": "Shirt",
-		"Größe": "158",
-		"Preis": "6.00 €",
-		"Letzte Zeile": "0"
-	},
-	{
-		"Person": "5",
-		"Artikel": "19",
-		"Name": "Shirt",
-		"Größe": "164",
-		"Preis": "6.50 €",
-		"Letzte Zeile": "0"
-	},
-	{
-		"Person": "5",
-		"Artikel": "20",
-		"Name": "Hose",
-		"Größe": "98",
-		"Preis": "7.00 €",
-		"Letzte Zeile": "0"
-	},
-	{
-		"Person": "5",
-		"Artikel": "21",
-		"Name": "Hose",
-		"Größe": "104",
-		"Preis": "7.50 €",
-		"Letzte Zeile": "0"
-	},
-	{
-		"Person": "5",
-		"Artikel": "22",
-		"Name": "Hose",
-		"Größe": "110",
-		"Preis": "8.00 €",
-		"Letzte Zeile": "0"
-	},
-	{
-		"Person": "5",
-		"Artikel": "23",
-		"Name": "Hose",
-		"Größe": "116",
-		"Preis": "8.50 €",
-		"Letzte Zeile": "0"
-	},
-	{
-		"Person": "5",
-		"Artikel": "24",
-		"Name": "Hose",
-		"Größe": "122",
-		"Preis": "9.00 €",
-		"Letzte Zeile": "0"
-	},
-	{
-		"Person": "5",
-		"Artikel": "25",
-		"Name": "Hose",
-		"Größe": "128",
-		"Preis": "9.50 €",
-		"Letzte Zeile": "0"
-	},
-	{
-		"Person": "5",
-		"Artikel": "26",
-		"Name": "Hose",
-		"Größe": "134",
-		"Preis": "10.00 €",
-		"Letzte Zeile": "0"
-	},
-	{
-		"Person": "5",
-		"Artikel": "27",
-		"Name": "Hose",
-		"Größe": "140",
-		"Preis": "10.50 €",
-		"Letzte Zeile": "0"
-	},
-	{
-		"Person": "5",
-		"Artikel": "28",
-		"Name": "Hose",
-		"Größe": "146",
-		"Preis": "11.00 €",
-		"Letzte Zeile": "0"
-	},
-	{
-		"Person": "5",
-		"Artikel": "29",
-		"Name": "Hose",
-		"Größe": "152",
-		"Preis": "11.50 €",
-		"Letzte Zeile": "0"
-	},
-	{
-		"Person": "5",
-		"Artikel": "30",
-		"Name": "Hose",
-		"Größe": "158",
-		"Preis": "12.00 €",
-		"Letzte Zeile": "0"
-	},
-	{
-		"Person": "5",
-		"Artikel": "31",
-		"Name": "Hose",
-		"Größe": "164",
-		"Preis": "12.50 €",
-		"Letzte Zeile": "0"
-	},
-	{
-		"Person": "5",
-		"Artikel": "32",
-		"Name": "Gummistiefel",
-		"Größe": "25",
-		"Preis": "13.00 €",
-		"Letzte Zeile": "0"
-	},
-	{
-		"Person": "5",
-		"Artikel": "33",
-		"Name": "Gummistiefel",
-		"Größe": "26",
-		"Preis": "13.50 €",
-		"Letzte Zeile": "0"
-	},
-	{
-		"Person": "5",
-		"Artikel": "34",
-		"Name": "Gummistiefel",
-		"Größe": "27",
-		"Preis": "14.00 €",
-		"Letzte Zeile": "0"
-	},
-	{
-		"Person": "5",
-		"Artikel": "35",
-		"Name": "Gummistiefel",
-		"Größe": "28",
-		"Preis": "14.50 €",
-		"Letzte Zeile": "0"
-	},
-	{
-		"Person": "5",
-		"Artikel": "36",
-		"Name": "Gummistiefel",
-		"Größe": "29",
-		"Preis": "15.00 €",
-		"Letzte Zeile": "0"
-	},
-	{
-		"Person": "5",
-		"Artikel": "37",
-		"Name": "Gummistiefel",
-		"Größe": "30",
-		"Preis": "15.50 €",
-		"Letzte Zeile": "0"
-	},
-	{
-		"Person": "5",
-		"Artikel": "38",
-		"Name": "Gummistiefel",
-		"Größe": "31",
-		"Preis": "16.00 €",
-		"Letzte Zeile": "0"
-	},
-	{
-		"Person": "5",
-		"Artikel": "39",
-		"Name": "Gummistiefel",
-		"Größe": "32",
-		"Preis": "16.50 €",
-		"Letzte Zeile": "0"
-	},
-	{
-		"Person": "5",
-		"Artikel": "40",
-		"Name": "Gummistiefel",
-		"Größe": "33",
-		"Preis": "17.00 €",
-		"Letzte Zeile": "0"
-	},
-	{
-		"Person": "5",
-		"Artikel": "41",
-		"Name": "Gummistiefel",
-		"Größe": "34",
-		"Preis": "17.50 €",
-		"Letzte Zeile": "0"
-	},
-	{
-		"Person": "5",
-		"Artikel": "42",
-		"Name": "Gummistiefel",
-		"Größe": "35",
-		"Preis": "18.00 €",
-		"Letzte Zeile": "0"
-	},
-	{
-		"Person": "5",
-		"Artikel": "43",
-		"Name": "Gummistiefel",
-		"Größe": "36",
-		"Preis": "18.50 €",
-		"Letzte Zeile": "0"
-	},
-	{
-		"Person": "5",
-		"Artikel": "44",
-		"Name": "Gummistiefel",
-		"Größe": "37",
-		"Preis": "19.00 €",
-		"Letzte Zeile": "0"
-	},
-	{
-		"Person": "5",
-		"Artikel": "45",
-		"Name": "Gummistiefel",
-		"Größe": "38",
-		"Preis": "19.50 €",
-		"Letzte Zeile": "0"
-	},
-	{
-		"Person": "5",
-		"Artikel": "46",
-		"Name": "Gummistiefel",
-		"Größe": "39",
-		"Preis": "20.00 €",
-		"Letzte Zeile": "0"
-	},
-	{
-		"Person": "5",
-		"Artikel": "47",
-		"Name": "Sandalen",
-		"Größe": "25",
-		"Preis": "20.50 €",
-		"Letzte Zeile": "0"
-	},
-	{
-		"Person": "5",
-		"Artikel": "48",
-		"Name": "Sandalen",
-		"Größe": "26",
-		"Preis": "21.00 €",
-		"Letzte Zeile": "0"
-	},
-	{
-		"Person": "5",
-		"Artikel": "49",
-		"Name": "Sandalen",
-		"Größe": "27",
-		"Preis": "21.50 €",
-		"Letzte Zeile": "0"
-	},
-	{
-		"Person": "5",
-		"Artikel": "50",
-		"Name": "Sandalen",
-		"Größe": "28",
-		"Preis": "22.00 €",
-		"Letzte Zeile": "1"
-	},
-	{
-		"Person": "6",
-		"Artikel": "1",
-		"Name": "Das wüsstest du jetzt wohl gerne...",
-		"Größe": "",
-		"Preis": "101.50 €",
-		"Letzte Zeile": "1"
-	},
-	{
-		"Person": "7",
-		"Artikel": "1",
-		"Name": "Body grün (H&M)",
-		"Größe": "58",
-		"Preis": "1.00 €",
-		"Letzte Zeile": "0"
-	},
-	{
-		"Person": "7",
-		"Artikel": "2",
-		"Name": "Body weiß",
-		"Größe": "58",
-		"Preis": "1.00 €",
-		"Letzte Zeile": "1"
-	},
-	{
-		"Person": "1001",
-		"Artikel": "1",
-		"Name": "asdf",
-		"Größe": "",
-		"Preis": "1.00 €",
-		"Letzte Zeile": "1"
-	},
-	{
-		"Person": ""
-	}
-]
+	"articles": [
+		{
+			"id": "1",
+			"userId": "1",
+			"Name": "Banana Hamock (gelb gebraucht)",
+			"Größe": "XXXXL (60cm)",
+			"Preis": "4.50"
+		},
+		{
+			"id": "2",
+			"userId": "1",
+			"Name": "Unterwäsche (sexy)",
+			"Größe": "Groß",
+			"Preis": "100.50"
+		},
+		{
+			"id": "3",
+			"userId": "2",
+			"Name": "Nix",
+			"Größe": "-",
+			"Preis": "0.00"
+		},
+		{
+			"id": "4",
+			"userId": "3",
+			"Name": "asdf asdf asdf asdf",
+			"Größe": "33",
+			"Preis": "45.00"
+		},
+		{
+			"id": "5",
+			"userId": "3",
+			"Name": "aaaaaa",
+			"Größe": "",
+			"Preis": "1.00"
+		},
+		{
+			"id": "6",
+			"userId": "4",
+			"Name": "Hose dunkelgrau (H&M)",
+			"Größe": "86",
+			"Preis": "1.00"
+		},
+		{
+			"id": "7",
+			"userId": "4",
+			"Name": "alskdjföalkdjf löaskdfjölaskjflkasj ölaksdfjlöakjfklasfj klöasjfiasufh",
+			"Größe": "L",
+			"Preis": "4.50"
+		},
+		{
+			"id": "8",
+			"userId": "5",
+			"Name": "Locher rot (Leitz 5138)",
+			"Größe": "A4",
+			"Preis": "56.00"
+		},
+		{
+			"id": "9",
+			"userId": "5",
+			"Name": "Buch Leo Lausemaus hat Geburtstag",
+			"Größe": "",
+			"Preis": "1.50"
+		},
+		{
+			"id": "10",
+			"userId": "5",
+			"Name": "Tip Toi Globus",
+			"Größe": "",
+			"Preis": "15.00"
+		},
+		{
+			"id": "11",
+			"userId": "5",
+			"Name": "Laminiergerät (Office)",
+			"Größe": "A3",
+			"Preis": "35.00"
+		},
+		{
+			"id": "12",
+			"userId": "5",
+			"Name": "Kleid ärmellos lila blau gepatickt",
+			"Größe": "122/128",
+			"Preis": "10.00"
+		},
+		{
+			"id": "13",
+			"userId": "5",
+			"Name": "2-teilig Gatschanzug rosa gefütter",
+			"Größe": "98/104",
+			"Preis": "5.00"
+		},
+		{
+			"id": "14",
+			"userId": "5",
+			"Name": "Shirt langarm lila in Lagarm-Kurzarm-Optik ",
+			"Größe": "104",
+			"Preis": "0.50"
+		},
+		{
+			"id": "15",
+			"userId": "5",
+			"Name": "Shirt",
+			"Größe": "98",
+			"Preis": "1.00"
+		},
+		{
+			"id": "16",
+			"userId": "5",
+			"Name": "Shirt",
+			"Größe": "104",
+			"Preis": "1.50"
+		},
+		{
+			"id": "17",
+			"userId": "5",
+			"Name": "Shirt",
+			"Größe": "110",
+			"Preis": "2.00"
+		},
+		{
+			"id": "18",
+			"userId": "5",
+			"Name": "Shirt",
+			"Größe": "116",
+			"Preis": "2.50"
+		},
+		{
+			"id": "19",
+			"userId": "5",
+			"Name": "Shirt",
+			"Größe": "122",
+			"Preis": "3.00"
+		},
+		{
+			"id": "20",
+			"userId": "5",
+			"Name": "Shirt",
+			"Größe": "128",
+			"Preis": "3.50"
+		},
+		{
+			"id": "21",
+			"userId": "5",
+			"Name": "Shirt",
+			"Größe": "134",
+			"Preis": "4.00"
+		},
+		{
+			"id": "22",
+			"userId": "5",
+			"Name": "Shirt",
+			"Größe": "140",
+			"Preis": "4.50"
+		},
+		{
+			"id": "23",
+			"userId": "5",
+			"Name": "Shirt",
+			"Größe": "146",
+			"Preis": "5.00"
+		},
+		{
+			"id": "24",
+			"userId": "5",
+			"Name": "Shirt",
+			"Größe": "152",
+			"Preis": "5.50"
+		},
+		{
+			"id": "25",
+			"userId": "5",
+			"Name": "Shirt",
+			"Größe": "158",
+			"Preis": "6.00"
+		},
+		{
+			"id": "26",
+			"userId": "5",
+			"Name": "Shirt",
+			"Größe": "164",
+			"Preis": "6.50"
+		},
+		{
+			"id": "27",
+			"userId": "5",
+			"Name": "Hose",
+			"Größe": "98",
+			"Preis": "7.00"
+		},
+		{
+			"id": "28",
+			"userId": "5",
+			"Name": "Hose",
+			"Größe": "104",
+			"Preis": "7.50"
+		},
+		{
+			"id": "29",
+			"userId": "5",
+			"Name": "Hose",
+			"Größe": "110",
+			"Preis": "8.00"
+		},
+		{
+			"id": "30",
+			"userId": "5",
+			"Name": "Hose",
+			"Größe": "116",
+			"Preis": "8.50"
+		}
+	],
+	"users": [
+		{
+			"id": 1,
+			"Name": "Hannes Sachsenhofer",
+			"Adresse": "Waldweg 14\n4113 St. Martin",
+			"E-Mail-Adresse": "hannes@sachsenhofer.com",
+			"Telefonnummer": "0677 61603456"
+		},
+		{
+			"id": 2,
+			"Name": "Hannes Sachsenhofer",
+			"Adresse": "asdf\nqwer",
+			"E-Mail-Adresse": "hannes.sachsenhofer@adliance.net",
+			"Telefonnummer": "asdf"
+		},
+		{
+			"id": 3,
+			"Name": "asdf",
+			"Adresse": "qwer",
+			"E-Mail-Adresse": "hs@eigenart.co.at",
+			"Telefonnummer": "asdf"
+		},
+		{
+			"id": 4,
+			"Name": "Ursi Pühringer",
+			"Adresse": "Galgenberg 3\n4120 Neufelden",
+			"E-Mail-Adresse": "ursula.puehringer@gmail.com",
+			"Telefonnummer": "0664 14 58 265"
+		},
+		{
+			"id": 5,
+			"Name": "Franz Pühringer",
+			"Adresse": "Galgenberg 3\n4120 Neufelden",
+			"E-Mail-Adresse": "ursula.puehringer@gmail.com",
+			"Telefonnummer": "0664 14 58 265"
+		},
+		{
+			"id": 6,
+			"Name": "Maria Fischer",
+			"Adresse": "Sag ich nicht\nWien",
+			"E-Mail-Adresse": "maria@musterfrau.com",
+			"Telefonnummer": "0664 12 345 67"
+		},
+		{
+			"id": 7,
+			"Name": "Carina Grabner",
+			"Adresse": "Straße\n4120 Neufelden",
+			"E-Mail-Adresse": "carina@carina.com",
+			"Telefonnummer": "0664 12 345 67"
+		},
+		{
+			"id": 1001,
+			"Name": "Hannes Sachsenhofer",
+			"Adresse": "Mütterrunde\nUnd mehr Text geht auch, Hauptsache Mütterrunde kommt voir",
+			"E-Mail-Adresse": "hannes@sachsenhofer.com",
+			"Telefonnummer": "1234"
+		}
+	]
 }
