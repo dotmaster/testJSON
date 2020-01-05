@@ -262,11 +262,80 @@
 			"Telefonnummer": "0664 12 345 67"
 		},
 		{
+			"id": 8,
+			"Name": "Gregor Schwab",
+			"Adresse": "Linzer Straße 6\n4120 Neufelden",
+			"E-Mail-Adresse": "gregor.schwab@gmail.com",
+			"Telefonnummer": "0699 00 000 00"
+		},
+		{
 			"id": 1001,
 			"Name": "Hannes Sachsenhofer",
 			"Adresse": "Mütterrunde\nUnd mehr Text geht auch, Hauptsache Mütterrunde kommt voir",
 			"E-Mail-Adresse": "hannes@sachsenhofer.com",
 			"Telefonnummer": "1234"
+		}
+	],
+	"accounts": [
+		{
+			"id": 1,
+			"dateCreation": "2012-04-23T18:25:43.511Z",
+			"articlesSold": [
+				5, 7, 22
+			],
+			"totalPrice": "20.50"
+		},
+		{
+			"id": 2,
+			"dateCreation": "2012-04-26T09:25:43.511Z",
+			"articlesSold": [
+				3, 4, 20
+			],
+			"totalPrice": "25.50"
+		},
+		{
+			"id": 3,
+			"dateCreation": "2012-04-26T19:25:43.511Z",
+			"articlesSold": [
+				1, 11, 13, 14, 17
+			],
+			"totalPrice": "60.50"
+		}
+	],
+	"barcodescanners": [
+		{
+			"id": 1,
+			"userId": 8,
+			"name": "iPhone XR von Gregor",
+			"oauth_token": "xyzxyzxyzxyz"
+		},
+		{
+			"id": 2,
+			"userId": 8,
+			"name": "iPhone von Romana",
+			"oauth_token": "uvwuvwuvwuvw"
+		}
+	],
+	"bazars": [
+		{
+			"id": 1,
+			"dateClosing": "2020-03-01T00:00:00.000Z",
+			"name": "Frühjahrsbasar 2020"
+		},
+		{
+			"id": 2,
+			"dateClosing": "2020-09-01T00:00:00.000Z",
+			"name": "Herbstbasar 2020"
+		}
+	],
+	"connectedLabelPrinters": [
+		{
+			"id": 1,
+			"name": "Epson TP872"
+		},
+		{
+			"id": 2,
+			"name": "Brother QL 800"
 		}
 	]
 }
