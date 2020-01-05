@@ -1,18 +1,95 @@
 {
   "articles":[
 	{
-		"Id": "1",
 		"Person": "1",
+		"Artikel": "1",
 		"Name": "Banana Hamock (gelb gebraucht)",
 		"Größe": "XXXXL (60cm)",
 		"Preis": "4.50"
 	},
 	{
-		"Id": "2",
 		"Person": "1",
+		"Artikel": "2",
 		"Name": "Unterwäsche (sexy)",
 		"Größe": "Groß",
 		"Preis": "100.50"
+	},
+	{
+		"Person": "2",
+		"Artikel": "1",
+		"Name": "Nix",
+		"Größe": "-",
+		"Preis": "0.00"
+	},
+	{
+		"Person": "3",
+		"Artikel": "1",
+		"Name": "asdf asdf asdf asdf",
+		"Größe": "33",
+		"Preis": "45.00"
+	},
+	{
+		"Person": "3",
+		"Artikel": "2",
+		"Name": "aaaaaa",
+		"Größe": "",
+		"Preis": "1.00"
+	},
+	{
+		"Person": "4",
+		"Artikel": "1",
+		"Name": "Hose dunkelgrau (H&M)",
+		"Größe": "86",
+		"Preis": "1.00"
+	},
+	{
+		"Person": "4",
+		"Artikel": "2",
+		"Name": "alskdjföalkdjf löaskdfjölaskjflkasj ölaksdfjlöakjfklasfj klöasjfiasufh",
+		"Größe": "L",
+		"Preis": "4.50"
+	},
+	{
+		"Person": "5",
+		"Artikel": "1",
+		"Name": "Locher rot (Leitz 5138)",
+		"Größe": "A4",
+		"Preis": "56.00"
+	},
+	{
+		"Person": "5",
+		"Artikel": "2",
+		"Name": "Buch Leo Lausemaus hat Geburtstag",
+		"Größe": "",
+		"Preis": "1.50"
+	},
+	{
+		"Person": "5",
+		"Artikel": "3",
+		"Name": "Tip Toi Globus",
+		"Größe": "",
+		"Preis": "15.00"
+	},
+	{
+		"Person": "5",
+		"Artikel": "4",
+		"Name": "Laminiergerät (Office)",
+		"Größe": "A3",
+		"Preis": "35.00"
+	},
+	{
+		"Person": "5",
+		"Artikel": "5",
+		"Name": "Kleid ärmellos",
+		"Größe": " lila blau gepatickt",
+		"Preis": "122/128"
+	},
+	{
+		"Person": "5",
+		"Artikel": "6",
+		"Name": "2-teilig Gatschanzug rosa gefütter",
+		"Größe": "98/104",
+		"Preis": "5.00"
 	}
-  ]
+]
 }
