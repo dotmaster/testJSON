@@ -1,214 +1,434 @@
 {
   "articles":[
 	{
-		"Id": "1",
+		"id": "1",
 		"Person": "1",
 		"Name": "Banana Hamock (gelb gebraucht)",
 		"Größe": "XXXXL (60cm)",
 		"Preis": "4.50"
 	},
 	{
-		"Id": "2",
+		"id": "2",
 		"Person": "1",
 		"Name": "Unterwäsche (sexy)",
 		"Größe": "Groß",
 		"Preis": "100.50"
 	},
 	{
-		"Id": "3",
+		"id": "3",
 		"Person": "2",
 		"Name": "Nix",
 		"Größe": "-",
 		"Preis": "0.00"
 	},
 	{
-		"Id": "4",
+		"id": "4",
 		"Person": "3",
 		"Name": "asdf asdf asdf asdf",
 		"Größe": "33",
 		"Preis": "45.00"
 	},
 	{
-		"Id": "5",
+		"id": "5",
 		"Person": "3",
 		"Name": "aaaaaa",
 		"Größe": "",
 		"Preis": "1.00"
 	},
 	{
-		"Id": "6",
+		"id": "6",
 		"Person": "4",
 		"Name": "Hose dunkelgrau (H&M)",
 		"Größe": "86",
 		"Preis": "1.00"
 	},
 	{
-		"Id": "7",
+		"id": "7",
 		"Person": "4",
 		"Name": "alskdjföalkdjf löaskdfjölaskjflkasj ölaksdfjlöakjfklasfj klöasjfiasufh",
 		"Größe": "L",
 		"Preis": "4.50"
 	},
 	{
-		"Id": "8",
+		"id": "8",
 		"Person": "5",
 		"Name": "Locher rot (Leitz 5138)",
 		"Größe": "A4",
 		"Preis": "56.00"
 	},
 	{
-		"Id": "9",
+		"id": "9",
 		"Person": "5",
 		"Name": "Buch Leo Lausemaus hat Geburtstag",
 		"Größe": "",
 		"Preis": "1.50"
 	},
 	{
-		"Id": "10",
+		"id": "10",
 		"Person": "5",
 		"Name": "Tip Toi Globus",
 		"Größe": "",
 		"Preis": "15.00"
 	},
 	{
-		"Id": "11",
+		"id": "11",
 		"Person": "5",
 		"Name": "Laminiergerät (Office)",
 		"Größe": "A3",
 		"Preis": "35.00"
 	},
 	{
-		"Id": "12",
+		"id": "12",
 		"Person": "5",
 		"Name": "Kleid ärmellos",
 		"Größe": " lila blau gepatickt",
 		"Preis": "122/128"
 	},
 	{
-		"Id": "13",
+		"id": "13",
 		"Person": "5",
 		"Name": "2-teilig Gatschanzug rosa gefütter",
 		"Größe": "98/104",
 		"Preis": "5.00"
 	},
 	{
-		"Id": "14",
+		"id": "14",
 		"Person": "5",
 		"Name": "Shirt langarm lila in Lagarm-Kurzarm-Optik ",
 		"Größe": "104",
 		"Preis": "0.50"
 	},
 	{
-		"Id": "15",
+		"id": "15",
 		"Person": "5",
 		"Name": "Shirt",
 		"Größe": "98",
 		"Preis": "1.00"
 	},
 	{
-		"Id": "16",
+		"id": "16",
 		"Person": "5",
 		"Name": "Shirt",
 		"Größe": "104",
 		"Preis": "1.50"
 	},
 	{
-		"Id": "17",
+		"id": "17",
 		"Person": "5",
 		"Name": "Shirt",
 		"Größe": "110",
 		"Preis": "2.00"
 	},
 	{
-		"Id": "18",
+		"id": "18",
 		"Person": "5",
 		"Name": "Shirt",
 		"Größe": "116",
 		"Preis": "2.50"
 	},
 	{
-		"Id": "19",
+		"id": "19",
 		"Person": "5",
 		"Name": "Shirt",
 		"Größe": "122",
 		"Preis": "3.00"
 	},
 	{
-		"Id": "20",
+		"id": "20",
 		"Person": "5",
 		"Name": "Shirt",
 		"Größe": "128",
 		"Preis": "3.50"
 	},
 	{
-		"Id": "21",
+		"id": "21",
 		"Person": "5",
 		"Name": "Shirt",
 		"Größe": "134",
 		"Preis": "4.00"
 	},
 	{
-		"Id": "22",
+		"id": "22",
 		"Person": "5",
 		"Name": "Shirt",
 		"Größe": "140",
 		"Preis": "4.50"
 	},
 	{
-		"Id": "23",
+		"id": "23",
 		"Person": "5",
 		"Name": "Shirt",
 		"Größe": "146",
 		"Preis": "5.00"
 	},
 	{
-		"Id": "24",
+		"id": "24",
 		"Person": "5",
 		"Name": "Shirt",
 		"Größe": "152",
 		"Preis": "5.50"
 	},
 	{
-		"Id": "25",
+		"id": "25",
 		"Person": "5",
 		"Name": "Shirt",
 		"Größe": "158",
 		"Preis": "6.00"
 	},
 	{
-		"Id": "26",
+		"id": "26",
 		"Person": "5",
 		"Name": "Shirt",
 		"Größe": "164",
 		"Preis": "6.50"
 	},
 	{
-		"Id": "27",
+		"id": "27",
 		"Person": "5",
 		"Name": "Hose",
 		"Größe": "98",
 		"Preis": "7.00"
 	},
 	{
-		"Id": "28",
+		"id": "28",
 		"Person": "5",
 		"Name": "Hose",
 		"Größe": "104",
 		"Preis": "7.50"
 	},
 	{
-		"Id": "29",
+		"id": "29",
 		"Person": "5",
 		"Name": "Hose",
 		"Größe": "110",
 		"Preis": "8.00"
 	},
 	{
-		"Id": "30",
+		"id": "30",
 		"Person": "5",
 		"Name": "Hose",
 		"Größe": "116",
 		"Preis": "8.50"
+	},
+	{
+		"id": "31",
+		"Person": "5",
+		"Name": "Hose",
+		"Größe": "122",
+		"Preis": "9.00"
+	},
+	{
+		"id": "32",
+		"Person": "5",
+		"Name": "Hose",
+		"Größe": "128",
+		"Preis": "9.50"
+	},
+	{
+		"id": "33",
+		"Person": "5",
+		"Name": "Hose",
+		"Größe": "134",
+		"Preis": "10.00"
+	},
+	{
+		"id": "34",
+		"Person": "5",
+		"Name": "Hose",
+		"Größe": "140",
+		"Preis": "10.50"
+	},
+	{
+		"id": "35",
+		"Person": "5",
+		"Name": "Hose",
+		"Größe": "146",
+		"Preis": "11.00"
+	},
+	{
+		"id": "36",
+		"Person": "5",
+		"Name": "Hose",
+		"Größe": "152",
+		"Preis": "11.50"
+	},
+	{
+		"id": "37",
+		"Person": "5",
+		"Name": "Hose",
+		"Größe": "158",
+		"Preis": "12.00"
+	},
+	{
+		"id": "38",
+		"Person": "5",
+		"Name": "Hose",
+		"Größe": "164",
+		"Preis": "12.50"
+	},
+	{
+		"id": "39",
+		"Person": "5",
+		"Name": "Gummistiefel",
+		"Größe": "25",
+		"Preis": "13.00"
+	},
+	{
+		"id": "40",
+		"Person": "5",
+		"Name": "Gummistiefel",
+		"Größe": "26",
+		"Preis": "13.50"
+	},
+	{
+		"id": "41",
+		"Person": "5",
+		"Name": "Gummistiefel",
+		"Größe": "27",
+		"Preis": "14.00"
+	},
+	{
+		"id": "42",
+		"Person": "5",
+		"Name": "Gummistiefel",
+		"Größe": "28",
+		"Preis": "14.50"
+	},
+	{
+		"id": "43",
+		"Person": "5",
+		"Name": "Gummistiefel",
+		"Größe": "29",
+		"Preis": "15.00"
+	},
+	{
+		"id": "44",
+		"Person": "5",
+		"Name": "Gummistiefel",
+		"Größe": "30",
+		"Preis": "15.50"
+	},
+	{
+		"id": "45",
+		"Person": "5",
+		"Name": "Gummistiefel",
+		"Größe": "31",
+		"Preis": "16.00"
+	},
+	{
+		"id": "46",
+		"Person": "5",
+		"Name": "Gummistiefel",
+		"Größe": "32",
+		"Preis": "16.50"
+	},
+	{
+		"id": "47",
+		"Person": "5",
+		"Name": "Gummistiefel",
+		"Größe": "33",
+		"Preis": "17.00"
+	},
+	{
+		"id": "48",
+		"Person": "5",
+		"Name": "Gummistiefel",
+		"Größe": "34",
+		"Preis": "17.50"
+	},
+	{
+		"id": "49",
+		"Person": "5",
+		"Name": "Gummistiefel",
+		"Größe": "35",
+		"Preis": "18.00"
+	},
+	{
+		"id": "50",
+		"Person": "5",
+		"Name": "Gummistiefel",
+		"Größe": "36",
+		"Preis": "18.50"
+	},
+	{
+		"id": "51",
+		"Person": "5",
+		"Name": "Gummistiefel",
+		"Größe": "37",
+		"Preis": "19.00"
+	},
+	{
+		"id": "52",
+		"Person": "5",
+		"Name": "Gummistiefel",
+		"Größe": "38",
+		"Preis": "19.50"
+	},
+	{
+		"id": "53",
+		"Person": "5",
+		"Name": "Gummistiefel",
+		"Größe": "39",
+		"Preis": "20.00"
+	},
+	{
+		"id": "54",
+		"Person": "5",
+		"Name": "Sandalen",
+		"Größe": "25",
+		"Preis": "20.50"
+	},
+	{
+		"id": "55",
+		"Person": "5",
+		"Name": "Sandalen",
+		"Größe": "26",
+		"Preis": "21.00"
+	},
+	{
+		"id": "56",
+		"Person": "5",
+		"Name": "Sandalen",
+		"Größe": "27",
+		"Preis": "21.50"
+	},
+	{
+		"id": "57",
+		"Person": "5",
+		"Name": "Sandalen",
+		"Größe": "28",
+		"Preis": "22.00"
+	},
+	{
+		"id": "58",
+		"Person": "6",
+		"Name": "Das wüsstest du jetzt wohl gerne...",
+		"Größe": "",
+		"Preis": "101.50"
+	},
+	{
+		"id": "59",
+		"Person": "7",
+		"Name": "Body grün (H&M)",
+		"Größe": "58",
+		"Preis": "1.00"
+	},
+	{
+		"id": "60",
+		"Person": "7",
+		"Name": "Body weiß",
+		"Größe": "58",
+		"Preis": "1.00"
+	},
+	{
+		"id": "61",
+		"Person": "1001",
+		"Name": "asdf",
+		"Größe": "",
+		"Preis": "1.00"
+	},
+	{
+		"id": ""
 	}
 ]
 }
