@@ -80,9 +80,9 @@
 	{
 		"id": "12",
 		"Person": "5",
-		"Name": "Kleid ärmellos",
-		"Größe": " lila blau gepatickt",
-		"Preis": "122/128"
+		"Name": "Kleid ärmellos lila blau gepatickt",
+		"Größe": "122/128",
+		"Preis": "10.00"
 	},
 	{
 		"id": "13",
