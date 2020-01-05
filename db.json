@@ -170,27 +170,6 @@
 	},
 	{
 		"Person": "5",
-		"Artikel": "18",
-		"Name": "Shirt",
-		"Größe": "158",
-		"Preis": "6.00"
-	},
-	{
-		"Person": "5",
-		"Artikel": "19",
-		"Name": "Shirt",
-		"Größe": "164",
-		"Preis": "6.50"
-	},
-	{
-		"Person": "5",
-		"Artikel": "20",
-		"Name": "Hose",
-		"Größe": "98",
-		"Preis": "7.00"
-	},
-	{
-		"Person": "5",
 		"Artikel": "24",
 		"Name": "Hose",
 		"Größe": "122",
